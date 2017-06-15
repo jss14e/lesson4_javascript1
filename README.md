@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(June 16, 2017)
+(June 16, 2017
 
 ### Student Name:  
-(Jonathan Sapp)
+Jonathan Sapp
 
 ### Project Description:
-(The user enters in the amount they paid for each category. It will calculate your total expenses along with the percentage each category contributed to the total.)
+The user enters in the amount they paid for each category. It will calculate your total expenses along with the percentage each category contributed to the total.
 
 ### View Project:
 https://github.com/jss14e/lesson4_javascript1.git
